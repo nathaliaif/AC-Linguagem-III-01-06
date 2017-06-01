@@ -1,0 +1,10 @@
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\bin\Debug\12294_12295.exe.config
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\bin\Debug\12294_12295.exe
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\bin\Debug\12294_12295.pdb
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\12294_12295.csprojResolveAssemblyReference.cache
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\_12294_12295.Form1.resources
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\_12294_12295.Properties.Resources.resources
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\_12294_12295.Sobre.resources
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\12294_12295.csproj.GenerateResource.Cache
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\12294_12295.exe
+D:\3EMIA\Linguagem\AC-Linguagem-12294-12295\12294_12295\12294_12295\obj\Debug\12294_12295.pdb
